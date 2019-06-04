@@ -27,7 +27,12 @@ nav{
     padding: 0px 10px 0px;
     
 }
-.pesq{
+.pesq-div{
+    display: flex;
+
+}
+#pesq{
+    padding: 0px 0px 0px;
 
 }
 .none{
@@ -35,7 +40,7 @@ nav{
 }
 
 @media (max-width:800px){
-    .pesq{
+    .pesq-div{
         display: none;
     }
     .none{
