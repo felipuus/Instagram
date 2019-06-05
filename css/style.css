@@ -5,6 +5,7 @@
 body{
     background-color: #dfdede;
 }
+ /* nav do site */
 nav{
     height: 10vh;
     background-color: #ffffff;
@@ -30,6 +31,15 @@ nav{
 }
 .none{
     display: none;
+}
+/*  */
+
+
+
+.border-public{
+    border: solid 1px #8b3333;
+    width: auto;
+    height: auto;
 }
 
 @media (max-width:800px){
