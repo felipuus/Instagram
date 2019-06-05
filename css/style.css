@@ -10,29 +10,22 @@ nav{
     background-color: #ffffff;
 
 }
-.flex-center{
+.flex-d-around{
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .nav-imgs{
-    width: 24px;
-    height: 24px;
-}
-
-.nav-icon{
-    
+    width: 30px;
+    height: 30px;
 }
 .nav-icon img{
     padding: 0px 10px 0px;
-    
 }
-.pesq-div{
-    display: flex;
-
-}
-#pesq{
-    padding: 0px 0px 0px;
+.pesq-div #pesq{
+    padding: 0px 0px 0px 120px;
+    margin: 0px 0px 0px 15px;
+    border-radius: 8px;
 
 }
 .none{
