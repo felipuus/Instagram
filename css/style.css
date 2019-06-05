@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 15px 0px 0px 0px;
+    margin: 16px 0px 0px 0px;
 }
 .flex-d-around .nav-imgs{
     width: 30px;
